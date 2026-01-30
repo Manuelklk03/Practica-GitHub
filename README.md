@@ -1,2 +1,5 @@
-#Práctica GitHub DAW
-Repositorio de Prueba para aprender GitHub en Debian
+#AUTOR: MANUEL CASINOS PEREZ
+
+#FECHA 30/01/2026
+
+
